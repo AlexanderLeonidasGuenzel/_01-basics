@@ -46,5 +46,6 @@ public class Main {
         System.out.println("Summe: " + (a + b));
     }
 
+    public static void test(){}
 
 }
